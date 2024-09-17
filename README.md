@@ -14,7 +14,7 @@ The bracket and other components of the robot body were designed in Autodesk Fus
 
 The robot uses an Arduino Nano ESP32 Microcontroller, [motor driver, motors, line sensor] These components are mounted on a custom 2-sided PCB Board that was designed and ordered with EasyEDA.
 
-A separate stopwatch device was created for measuring the lap time of the robot. It used [controller, sensor]
+A stand-alone stopwatch device was created for measuring the lap time of the robot. It used [controller, sensor]
 
 ### Software Design
 
@@ -27,3 +27,9 @@ Each of the PID modules requires a coefficient, which is fine tuned by hand to o
 ### Result Videos
 
 [video.mp4](https://github.com/aanokh/LineFollower/blob/b71695a8783dbfd515533419e18241214081eb8c/Media/video.mp4)
+
+### Future Improvements
+
+A major improvement that could be made to the robot design is adding a turbine to improve the robot's friction.
+The stopwatch device could be improved by letting it also connect to a mobile app and calculate the average lap time.
+Multiple coefficient profiles could be added to support easy switching between tracks and frame lengths.
