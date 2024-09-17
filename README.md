@@ -31,5 +31,7 @@ Each of the PID modules requires a coefficient, which is fine tuned by hand to o
 ### Future Improvements
 
 A major improvement that could be made to the robot design is adding a turbine to improve the robot's friction.
+
 The stopwatch device could be improved by letting it also connect to a mobile app and calculate the average lap time.
+
 Multiple coefficient profiles could be added to support easy switching between tracks and frame lengths.
