@@ -1,6 +1,7 @@
 # __Line Follower Robot__
 
 ![An image of the robot](./Media/robot.jpg)
+<img src="./Media/robot.jpg" alt="An image of the robot" width="100" />
 
 This autonomous line follower robot was created for the RoboGames Olympics 2024 by me and my younger brother. It has been designed, modeled, constructed and programmed from scratch. The robot can autonomously follow a black or white line on a contrasting background at high speeds by implementing a PID controller.
 
