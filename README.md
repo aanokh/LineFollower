@@ -22,7 +22,7 @@ The robot uses an Arduino Nano ESP32 Microcontroller, a DRV8833 Motor Drive Modu
 
 <img src="./Media/pcb.jpg" alt="An image of the PCB" width="200" />
 
-A separate stopwatch device was created for measuring the lap time of the robot. It used [controller, sensor]
+A stand-alone stopwatch device was also created for measuring the lap time of the robot.
 
 ### Software Design
 
