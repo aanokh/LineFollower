@@ -18,7 +18,9 @@ After early testing, it was evident that standard rubber wheels were too slipper
 
 <img src="./Media/pcb_horizontal.jpg" alt="An image of the PCB without components" width="350" />
 
-The robot uses an Arduino Nano ESP32 Microcontroller, a DRV8833 Motor Drive Module, and a 16 channel Pololu QTR Reflectance Sensor Array. These components are mounted on a custom 2-sided PCB Board that was designed and ordered with EasyEDA. The two 6V 1000RPM Pololu Micro Metal Gear Motors are powered by a rechargeable Lithium Polymer battery pack.
+The robot uses an Arduino Nano ESP32 Microcontroller, a DRV8833 Motor Drive Module, and a 16 channel Pololu QTR Reflectance Sensor Array. These components are mounted on a custom 2-sided PCB Board that was designed and manufactured with EasyEDA. The two 6V 1000RPM Pololu Micro Metal Gear Motors are powered by a rechargeable Lithium Polymer battery pack.
+
+<img src="./Media/schematic.png" alt="An image of the PCB schematic" width="450" />
 
 <img src="./Media/pcb.jpg" alt="An image of the PCB" width="200" />
 
