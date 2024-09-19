@@ -34,15 +34,7 @@ Each of the PID modules requires a coefficient, which is fine tuned by hand to o
 
 ### Result Videos
 
-https://github.com/aanokh/LineFollower/blob/main/Media/video.mp4
-
-test
-
-
-
 https://github.com/user-attachments/assets/4bbc2604-2ac1-476d-a4cd-80716923511e
-
-
 
 ### Future Improvements
 A major improvement that could be made to the robot design is adding a turbine to improve the robot's friction.
