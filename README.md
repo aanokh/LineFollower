@@ -38,6 +38,12 @@ Each of the PID modules requires a coefficient, which is fine tuned by hand to o
 
 <video src="https://github.com/aanokh/LineFollower/blob/b71695a8783dbfd515533419e18241214081eb8c/Media/video.mp4" width="300" />
 
+
+
+https://github.com/user-attachments/assets/512b3969-a60f-4855-bd99-8d596dc6a1f5
+
+
+
 ### Future Improvements
 A major improvement that could be made to the robot design is adding a turbine to improve the robot's friction.
 The stopwatch device could be improved by letting it also connect to a mobile app and calculate the average lap time.
