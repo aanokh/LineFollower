@@ -34,13 +34,13 @@ Each of the PID modules requires a coefficient, which is fine tuned by hand to o
 
 ### Result Videos
 
-[video.mp4](https://github.com/aanokh/LineFollower/blob/b71695a8783dbfd515533419e18241214081eb8c/Media/video.mp4)
+https://github.com/aanokh/LineFollower/blob/main/Media/video.mp4
 
-<video src="https://github.com/aanokh/LineFollower/blob/b71695a8783dbfd515533419e18241214081eb8c/Media/video.mp4" width="300" />
+test
 
 
 
-https://github.com/user-attachments/assets/512b3969-a60f-4855-bd99-8d596dc6a1f5
+https://github.com/user-attachments/assets/4bbc2604-2ac1-476d-a4cd-80716923511e
 
 
 
