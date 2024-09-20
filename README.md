@@ -34,6 +34,8 @@ Since the robot needs to keep the line sensor centered on the line while experie
 
 Each of the PID modules requires a coefficient, which is fine tuned by hand to optimally fit a given track. To expedite this process, a simple mobile application was created with MIT App Inventor which uses the Bluetooth Low Energy (BLE) technology to communicate with the Arduino microcontroller. This allows the coefficients to be quickly tweaked while observing the results in real time. When the desired coefficients are reached, they are serialized with the Arduino Preferences library.
 
+<img src="./Media/MobileApp.PNG" alt="An image of the mobile app" width="200"/>
+
 ### Result Videos
 
 https://github.com/user-attachments/assets/4bbc2604-2ac1-476d-a4cd-80716923511e
